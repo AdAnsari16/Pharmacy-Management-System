@@ -1,0 +1,61 @@
+body {
+      margin:0;
+      font-family:Brush Script MT;
+      font-size :20px;
+      background-image:url('img/pharmacy.jpg');
+
+      }
+
+.header {
+        background-image:url('img/navback.jpg');
+        padding: 10px;
+        text-align: center;
+        color: white;
+      }
+
+.nav_menu { 
+                 
+                display: block; 
+                color: white;
+                background-color: teal; 
+                text-align: left; 
+                padding: 14px 16px; 
+                text-decoration: none; 
+            } 
+            
+a {
+                  padding-right: 30px;
+                  color:white
+
+
+                }
+a:link {
+                   text-decoration: none;
+                }
+
+a:visited {
+                   text-decoration: none;
+                }
+a:hover {
+                text-decoration: underline;
+                }
+
+a:active {
+                text-decoration: underline;
+                }
+input[type=submit]
+  {
+font-size: 20px; 
+font-weight: bold;
+font-family: arial; 
+background-color: violet;
+  }
+h3{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family:calibri;
+}
+h1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
